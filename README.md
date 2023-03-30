@@ -1,3 +1,3 @@
-# AkankshaAI.github.io
+# AkankshaAI
 
 Portfolio

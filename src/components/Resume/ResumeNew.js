@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://github.com/AkankshaAI/Akanksha-Portfolio/blob/master/src/Assets/Akanksha%20Rani%20Resume.pdf";
+      "https://github.com/AkankshaAI/Akanksha-Portfolio/blob/fdfe21589acb85c6f1e674db48abb25b1d108ac1/src/Assets/Akanksha%20Rani%20Resume.pdf?raw=true";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);

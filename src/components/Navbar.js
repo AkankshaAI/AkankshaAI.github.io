@@ -98,7 +98,7 @@ function NavBar() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Achievements
+                <ImBlog style={{ marginBottom: "2px" }} />Achievements
               </Nav.Link>
             </Nav.Item>
 
